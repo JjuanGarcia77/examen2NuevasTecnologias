@@ -1,0 +1,201 @@
+nombre,edad,habilidades,certificados,proyectos,perfil,incompleta
+Johan Cardona,24,"['HTML/CSS', 'Java', 'C++', 'Python', 'React']",1,"['https://www.perez-bonilla.com/', 'https://www.guerra.biz/']",Frontend,False
+Maribel Yulieth Hernández,26,"['C++', 'JavaScript']",0,['https://www.correa.com/'],Fullstack,False
+Enrique Henry Romero Melo,23,"['HTML/CSS', 'NodeJS', 'C++']",2,[],Frontend,False
+Óscar Rojas,20,"['C++', 'HTML/CSS', 'Python', 'SQL']",2,[],Backend,False
+Adriana Elena Mendoza,18,"['Python', 'NodeJS']",4,['https://www.castro.com/'],Fullstack,False
+Ana Hurtado,18,"['NodeJS', 'HTML/CSS']",1,"['https://correa.com/', 'https://www.alfonso.com/']",Frontend,False
+José Miranda Velandia,24,"['React', 'NodeJS', 'Java', 'C++']",4,"['http://moreno.info/', 'http://ospina-alvarez.com/', 'https://arenas.com/']",Frontend,False
+Enith María Alarcón Ramos,27,"['HTML/CSS', 'React']",4,"['https://www.murillo.biz/', 'https://rueda.com/', 'http://www.perez-sanchez.net/']",Frontend,False
+Fernanda Rosero Ramos,28,"['Python', 'C++', 'HTML/CSS', 'JavaScript', 'SQL']",3,"['https://www.rodriguez.com/', 'https://www.trujillo.info/']",Backend,False
+Felipe Martín Castro,21,"['React', 'JavaScript']",2,[],Frontend,False
+Fernanda Arévalo,30,"['Python', 'React', 'SQL', 'Java']",3,"['https://mendez.info/', 'http://www.benitez-agudelo.com/', 'http://arteaga.com/']",Backend,False
+Ester Liliana Correa,20,"['JavaScript', 'HTML/CSS', 'React']",1,"['http://www.fonseca-mendoza.org/', 'https://mesa-suarez.net/', 'https://correa-rosero.com/']",Frontend,False
+Yolanda Guzmán Vallejo,23,"['SQL', 'HTML/CSS']",1,"['https://www.rios-gutierrez.net/', 'https://www.lopez-carrillo.com/']",Frontend,False
+Anderson Carlos Rivera,18,"['NodeJS', 'C++', 'Python', 'JavaScript']",5,[],Fullstack,False
+Raquel Lucero Torres Murillo,30,"['C++', 'JavaScript']",5,['http://gutierrez.biz/'],Fullstack,False
+Marina Murillo Jiménez,29,"['Java', 'Python']",0,"['https://gonzalez.com/', 'http://www.gutierrez.com/']",Fullstack,False
+Ricardo Marín Ávila,21,"['NodeJS', 'HTML/CSS', 'Python']",3,"['https://melo.net/', 'https://montes.biz/', 'http://www.vargas-garzon.com/']",Frontend,False
+Enrique Gildardo Castro Peña,29,"['React', 'Python', 'NodeJS', 'Java']",0,"['https://triana.net/', 'http://www.rangel.biz/', 'http://www.toro.net/']",Frontend,False
+Patricia Cardona Ochoa,29,"['Python', 'React']",1,['https://arevalo.com/'],Frontend,False
+Dayana Elizabeth Ríos Martínez,26,"['SQL', 'HTML/CSS', 'C++', 'JavaScript', 'Python']",3,[],Backend,False
+Simón Perdomo Camargo,25,"['SQL', 'NodeJS', 'React', 'C++', 'JavaScript']",4,['https://acevedo.com/'],Frontend,False
+Lilian Constanza García,30,"['Python', 'React', 'JavaScript', 'C++', 'Java']",0,"['http://www.loaiza.com/', 'http://medina-ortega.com/']",Frontend,False
+Deisy Rosa González,18,"['Python', 'SQL', 'React', 'JavaScript']",4,[],Backend,False
+Fernando Castro Osorio,19,"['Python', 'JavaScript']",4,"['http://www.palacios.com/', 'https://salazar.com/']",Fullstack,False
+Carlos Guevara,26,"['C++', 'NodeJS', 'React', 'Python']",2,"['https://castro.com/', 'https://gonzalez.info/']",Frontend,False
+Wilson Garzón Jaramillo,24,"['Java', 'JavaScript', 'C++', 'React']",3,"['https://garzon-fuentes.com/', 'http://arias.com/']",Frontend,False
+Guillermo Frank Ortiz,26,"['Java', 'Python', 'C++']",5,['https://vargas.com/'],Fullstack,False
+Martha Ojeda Bernal,29,"['Python', 'NodeJS', 'HTML/CSS', 'SQL', 'Java']",5,['https://gomez.biz/'],Backend,False
+Óscar Palacio,27,"['NodeJS', 'C++', 'HTML/CSS', 'SQL']",2,['https://ramos.info/'],Frontend,False
+Rocío Quintero Rodríguez,23,"['NodeJS', 'HTML/CSS', 'React', 'C++', 'SQL']",3,[],Frontend,False
+Consuelo Ospina Jiménez,25,"['C++', 'JavaScript', 'React', 'Java', 'SQL']",3,['https://vargas.com/'],Frontend,False
+Carolina Jimena Acosta Ramírez,26,"['JavaScript', 'Python', 'HTML/CSS']",0,"['http://diaz.org/', 'https://www.martinez.com/', 'https://carrillo-serna.net/']",Frontend,False
+Eduardo Álvaro Pérez,21,"['React', 'NodeJS', 'SQL']",5,"['http://pinto.com/', 'https://www.garcia.com/']",Frontend,False
+Marcela Sánchez,20,"['JavaScript', 'HTML/CSS', 'NodeJS']",3,['https://ojeda.org/'],Frontend,False
+Wilson Díaz Narváez,22,"['HTML/CSS', 'React', 'JavaScript']",2,['http://suarez.info/'],Frontend,False
+Juan Kevin Sarmiento Molina,29,"['HTML/CSS', 'NodeJS']",4,['http://www.rodriguez.info/'],Frontend,False
+Gustavo Díaz,29,"['NodeJS', 'React', 'JavaScript', 'C++', 'Python']",0,[],Frontend,False
+Socorro Soto Pinto,21,"['SQL', 'C++', 'HTML/CSS', 'Java', 'React']",2,[],Frontend,False
+Ana Sara Suárez,20,"['HTML/CSS', 'NodeJS', 'SQL']",1,[],Frontend,False
+Roger Guzmán Pinzón,19,"['Python', 'SQL']",4,[],Backend,False
+Mariana Díaz Patiño,20,"['SQL', 'HTML/CSS', 'C++']",0,['http://monsalve-acevedo.org/'],Frontend,False
+Yésica Perdomo,29,"['JavaScript', 'SQL', 'Java', 'HTML/CSS']",3,"['https://www.lopez.com/', 'http://salazar.com/']",Frontend,False
+Gabriela Valderrama Marín,30,"['C++', 'Java']",4,"['https://www.lopez-bastidas.com/', 'https://gutierrez.com/', 'http://www.garcia.org/']",Fullstack,False
+Alfredo Palacios,30,"['JavaScript', 'Python', 'C++']",5,"['https://granados.com/', 'http://lopez.com/', 'http://www.duran.info/']",Fullstack,False
+Carlos Carlos Ángel,29,"['C++', 'Python']",1,"['https://gil-murillo.net/', 'http://www.arango.biz/']",Fullstack,False
+Ruby Patricia Palacios Velasco,21,"['SQL', 'HTML/CSS']",5,"['http://www.hernandez.org/', 'http://www.soto.biz/', 'http://mejia-fernandez.com/']",Frontend,False
+Michel Arrieta,19,"['React', 'Java', 'HTML/CSS', 'JavaScript', 'Python']",3,"['http://www.cano-sanchez.com/', 'https://arboleda.com/']",Frontend,False
+Ofelia Bolaños,29,"['Java', 'Python', 'React', 'JavaScript']",1,"['http://www.angulo.biz/', 'https://figueroa.org/']",Frontend,False
+Martha Gil Miranda,19,"['C++', 'NodeJS', 'Java', 'Python']",1,"['https://www.monsalve-velez.info/', 'https://villegas.com/']",Fullstack,False
+Sergio Luis Narváez Flórez,26,"['SQL', 'HTML/CSS', 'JavaScript']",1,"['https://www.bernal-oviedo.info/', 'http://www.hoyos.com/', 'http://sandoval.com/']",Frontend,False
+Leonardo Luis Forero Ibarra,26,"['React', 'SQL', 'HTML/CSS', 'C++', 'NodeJS']",3,"['http://mendez-salazar.com/', 'http://www.ramirez-salazar.net/']",Frontend,False
+José Edwin Soto Páez,23,"['NodeJS', 'JavaScript', 'Python']",1,"['http://www.guevara-montes.com/', 'http://moreno-cano.info/', 'https://guerrero.com/']",Fullstack,False
+Héctor Santiago Castrillón,30,"['JavaScript', 'C++', 'React', 'Java', 'HTML/CSS']",2,"['https://gomez.net/', 'http://www.prada.com/', 'https://perez.info/']",Frontend,False
+Adolfo Ocampo Cortés Rentería,25,"['Java', 'Python', 'JavaScript', 'C++']",1,"['http://www.arrieta.com/', 'http://www.garcia.com/']",Fullstack,False
+Johan Esteban Durán,19,"['Java', 'HTML/CSS']",2,"['https://www.arrieta.com/', 'https://www.sierra.com/', 'http://www.martinez-ortiz.net/']",Frontend,False
+Ana Ardila,22,"['SQL', 'Python']",1,"['http://martinez.com/', 'https://www.vargas-sanchez.com/', 'https://cortes.com/']",Backend,False
+Carlos Mesa,18,"['SQL', 'NodeJS']",1,[],Fullstack,False
+Gloria Diana Sarmiento,30,"['JavaScript', 'React']",0,"['https://palacios-cardenas.info/', 'https://www.jimenez-torres.biz/']",Frontend,False
+Ángela Cecilia Rincón,26,"['NodeJS', 'Java']",0,"['https://quintero-cruz.org/', 'http://navarro.net/', 'https://ibarra.com/']",Fullstack,False
+Vanesa Eva Gómez Ríos,18,"['HTML/CSS', 'JavaScript', 'NodeJS', 'React']",4,['http://yepes.info/'],Frontend,False
+Francisco Calderón Mosquera,19,"['Python', 'C++', 'Java', 'JavaScript', 'NodeJS']",0,"['https://www.rodriguez.org/', 'http://bohorquez-perez.net/', 'https://www.moreno.com/']",Fullstack,False
+Fernando Arturo Rodríguez,20,"['NodeJS', 'HTML/CSS', 'Python']",1,"['http://marquez-velasquez.com/', 'https://www.vergara.com/', 'http://pinzon.net/']",Frontend,False
+Emilce Prada Rincón,19,"['NodeJS', 'Java', 'SQL', 'C++', 'React']",0,['https://www.agudelo.com/'],Frontend,False
+David Pérez,25,"['React', 'NodeJS', 'JavaScript']",3,"['http://www.saavedra.com/', 'https://www.rubio.info/', 'https://solano.org/']",Frontend,False
+Jaider Figueroa Contreras,21,"['Python', 'JavaScript', 'SQL', 'React']",5,"['https://mejia-jaimes.com/', 'http://fonseca-ramirez.com/']",Backend,False
+William Buitrago,23,"['Java', 'JavaScript', 'React', 'HTML/CSS']",5,['http://quiroga.com/'],Frontend,False
+Yohana Álvarez,20,"['React', 'JavaScript', 'NodeJS']",3,"['https://florez.com/', 'https://www.medina.com/', 'https://www.gonzalez.biz/']",Frontend,False
+Aida Gómez,22,"['Python', 'C++', 'HTML/CSS']",0,"['https://www.diaz.org/', 'https://www.barrios-vasquez.org/']",Frontend,False
+Milena Katherine Ruiz Marín,29,"['Python', 'JavaScript', 'NodeJS']",2,"['http://www.zuluaga.com/', 'http://www.mendoza-vasquez.com/', 'https://www.cardenas.org/']",Fullstack,False
+Cecilia Rodríguez González,18,"['Python', 'NodeJS', 'Java', 'HTML/CSS', 'React']",1,"['https://aguilar.org/', 'https://www.pena-pinto.com/']",Frontend,False
+Alfredo Jairo Hernández Gallego,21,"['JavaScript', 'React', 'NodeJS', 'SQL']",4,[],Frontend,False
+Jair Wilmer Torres Escobar,28,"['HTML/CSS', 'React', 'NodeJS', 'Python', 'JavaScript']",0,[],Frontend,False
+Luis Rubio,20,"['HTML/CSS', 'React', 'SQL', 'NodeJS']",3,"['https://www.sanchez.com/', 'http://nino.org/']",Frontend,False
+Diana Victoria Zapata,30,"['NodeJS', 'Java', 'SQL', 'React']",1,[],Frontend,False
+Ana Nancy Ríos Ríos,26,"['HTML/CSS', 'NodeJS']",2,"['https://reyes.org/', 'https://www.vasquez.com/', 'https://www.valencia-mercado.com/']",Frontend,False
+Oliva Ardila,21,"['JavaScript', 'React', 'NodeJS', 'HTML/CSS']",5,"['https://www.oviedo-nieto.org/', 'http://www.ramos.com/', 'http://www.ariza.info/']",Frontend,False
+María Barbosa Gómez,28,"['Python', 'SQL', 'React', 'Java']",4,"['https://www.calderon.com/', 'https://www.medina.com/', 'https://toro.net/']",Backend,False
+José Patiño,27,"['JavaScript', 'SQL']",5,"['http://www.cruz.com/', 'http://sanchez.info/']",Fullstack,False
+Andrea Liliana García,18,"['SQL', 'JavaScript', 'HTML/CSS', 'React']",0,['https://www.patino.org/'],Frontend,False
+Jhon Eliecer Hernández Portilla,18,"['Python', 'NodeJS', 'Java']",1,"['http://www.garcia.com/', 'http://bernal-munoz.com/']",Fullstack,False
+Jesús Vanegas Zapata,21,"['SQL', 'Python', 'NodeJS', 'Java']",3,['https://leon.net/'],Backend,False
+Paola Maira Delgado,26,"['HTML/CSS', 'Python']",3,"['https://cruz.com/', 'https://www.correa.com/']",Frontend,False
+Janeth Patricia Ortiz,27,"['Python', 'React', 'SQL']",3,[],Backend,False
+Carmen Cristina Rivas Vargas,25,"['Java', 'HTML/CSS']",1,"['http://florez.com/', 'http://www.sanchez.net/', 'http://www.munoz-ramos.com/']",Frontend,False
+Jesús Contreras,22,"['Java', 'JavaScript', 'HTML/CSS']",2,"['https://reyes.com/', 'http://romero.info/']",Frontend,False
+Johana Alexandra Melo Ramírez,26,"['NodeJS', 'Java', 'C++', 'JavaScript', 'SQL']",1,"['http://www.murillo-gomez.com/', 'http://valencia.com/']",Fullstack,False
+Samuel Javier Osorio,21,"['Java', 'C++', 'React', 'SQL']",1,"['https://www.rueda.com/', 'http://martinez.biz/', 'https://rodriguez.com/']",Frontend,False
+Leonardo Montoya,23,"['NodeJS', 'C++', 'Java']",0,['https://perez.net/'],Fullstack,False
+Camila María Jaimes Gómez,23,"['JavaScript', 'C++']",4,"['http://www.gonzalez.biz/', 'http://rojas-contreras.org/', 'http://acevedo-rojas.biz/']",Fullstack,False
+Liliana Nathalia González Martínez,22,"['React', 'Java', 'NodeJS', 'C++']",1,"['https://www.hernandez-vanegas.com/', 'https://www.lara.org/', 'https://www.ariza-pedraza.com/']",Frontend,False
+Luis Patiño Navarro,25,"['React', 'C++', 'Java', 'HTML/CSS']",3,"['http://betancur.org/', 'http://gil.org/', 'https://castillo.info/']",Frontend,False
+Dary Molina Ortega,24,"['Python', 'React', 'C++']",5,[],Frontend,False
+Diana Beatriz Carmona Sánchez,20,"['HTML/CSS', 'NodeJS', 'C++', 'Java', 'JavaScript']",5,['https://www.carvajal.info/'],Frontend,False
+Esther María Torres Galeano,20,"['NodeJS', 'Java', 'C++', 'React', 'Python']",4,['https://www.quintero.com/'],Frontend,False
+Rocío Castro,20,"['Java', 'SQL', 'React']",0,"['https://herrera.info/', 'https://www.blanco-alvarez.com/']",Frontend,False
+Dora Mantilla Perea,21,"['HTML/CSS', 'NodeJS', 'React', 'Python', 'Java']",5,[],Frontend,False
+Hugo Javier Duque Méndez,20,"['NodeJS', 'JavaScript', 'C++', 'React']",3,['http://www.gutierrez-zuluaga.com/'],Frontend,False
+Paola Marcela Mercado,22,"['HTML/CSS', 'React']",4,"['https://www.solano.info/', 'https://www.molina-mena.com/']",Frontend,False
+Jeisson Andrés Castillo,24,"['Java', 'React', 'NodeJS', 'Python', 'JavaScript']",3,"['https://www.restrepo.com/', 'https://www.castro.info/']",Frontend,False
+Beatriz Ballesteros,28,"['JavaScript', 'C++', 'HTML/CSS']",1,['http://beltran-alzate.biz/'],Frontend,False
+Santiago Aurelio Romero,19,"['JavaScript', 'C++']",0,"['http://www.caro.com/', 'https://www.ramirez.info/', 'https://www.diaz-arevalo.com/']",Fullstack,False
+María Córdoba,27,"['Java', 'SQL', 'NodeJS', 'HTML/CSS']",1,[],Frontend,False
+Alexander Pérez,28,"['SQL', 'HTML/CSS', 'NodeJS', 'Java', 'Python']",2,"['https://www.hoyos-ruiz.org/', 'https://www.torres-lopez.com/', 'https://garcia.org/']",Backend,False
+Socorro Eliana Núñez Velásquez,29,"['Python', 'Java', 'HTML/CSS']",5,"['https://www.navarro.com/', 'http://angel.com/']",Frontend,False
+Milena Rueda,25,"['React', 'C++', 'NodeJS']",2,"['http://rojas.com/', 'http://jaramillo.net/']",Frontend,False
+Dario Gustavo Cabrera,23,"['SQL', 'C++']",4,[],Fullstack,False
+Yenny Molina,20,"['SQL', 'React']",5,"['http://www.vargas.com/', 'https://barragan.com/', 'https://quiroz.biz/']",Frontend,False
+Antonio Luis Becerra Hoyos,20,"['C++', 'NodeJS']",0,"['http://www.martinez.com/', 'https://martinez.info/']",Fullstack,False
+Andrés Óscar Contreras Pérez,25,"['Python', 'SQL', 'JavaScript']",0,"['http://caro.com/', 'https://www.rivera.biz/']",Backend,False
+Pedro Castaño,19,"['NodeJS', 'React', 'HTML/CSS']",2,"['http://www.gonzales.com/', 'https://quintero.com/']",Frontend,False
+Jennifer Ingrid Sanabria,26,"['Java', 'C++', 'HTML/CSS']",2,['http://www.contreras.com/'],Frontend,False
+Karina Sánchez Díaz,26,"['NodeJS', 'JavaScript', 'React', 'HTML/CSS', 'SQL']",4,['http://quintero-hernandez.info/'],Frontend,False
+Alberto Ríos Pinto,23,"['Python', 'React', 'HTML/CSS']",0,['http://melo-garcia.com/'],Frontend,False
+Ernesto González,21,"['React', 'NodeJS', 'JavaScript', 'Python']",4,[],Frontend,False
+Manuel Gonzalo Díaz,24,"['JavaScript', 'Python', 'NodeJS', 'Java', 'HTML/CSS']",3,[],Frontend,False
+José Castro,30,"['C++', 'React', 'SQL', 'Java']",3,['http://www.moreno.com/'],Frontend,False
+Gloria Estrada Ángel,27,"['NodeJS', 'Python', 'HTML/CSS', 'SQL', 'JavaScript']",3,"['https://orozco.net/', 'https://martinez.com/']",Backend,False
+Patricia Gómez,25,"['C++', 'React']",4,"['http://www.torres.info/', 'http://www.padilla.com/', 'http://duarte.com/']",Frontend,False
+Inés Gutiérrez García,28,"['React', 'HTML/CSS']",5,"['http://www.ayala.com/', 'https://www.perez.com/']",Frontend,False
+Dary Mónica Díaz,18,"['Python', 'C++', 'HTML/CSS']",1,[],Frontend,False
+Fernanda Claudia Ibarra,23,"['HTML/CSS', 'C++', 'React', 'Python']",3,['https://www.campo-castro.biz/'],Frontend,False
+Diego Jader Burbano,20,"['Python', 'C++', 'React', 'HTML/CSS']",5,['https://www.salazar-sanchez.org/'],Frontend,False
+María Gonzáles,20,"['NodeJS', 'Java']",5,['https://www.carmona-diaz.com/'],Fullstack,False
+Andrea Marcela Contreras Gómez,20,"['C++', 'HTML/CSS', 'NodeJS', 'React']",0,[],Frontend,False
+Diana García Pérez,22,"['Python', 'C++', 'SQL', 'Java', 'HTML/CSS']",5,"['https://www.cardenas-galvis.com/', 'http://www.florez-gallego.biz/', 'http://www.guevara.info/']",Backend,False
+Jhon Jiménez Gómez,26,"['React', 'C++', 'NodeJS', 'JavaScript']",5,"['https://www.sanchez.org/', 'http://www.rodriguez-rivera.info/', 'https://zambrano-jaramillo.com/']",Frontend,False
+Nury Andrea Núñez Ruiz,28,"['SQL', 'Python', 'React', 'HTML/CSS', 'Java']",1,"['https://www.contreras.org/', 'https://gomez.com/', 'https://mosquera.org/']",Backend,False
+Danna Galeano,19,"['C++', 'React', 'JavaScript']",5,['https://www.bonilla.com/'],Frontend,False
+Nathalia García,25,"['C++', 'Python']",5,"['https://www.barrios.com/', 'http://www.murillo.info/']",Fullstack,False
+Iván Díaz,26,"['Python', 'C++', 'Java', 'HTML/CSS', 'NodeJS']",2,"['http://www.rodriguez.com/', 'http://sanchez.net/', 'http://giraldo.org/']",Frontend,False
+Karen Lucía Sierra Vera,18,"['Java', 'JavaScript', 'C++', 'HTML/CSS', 'SQL']",4,[],Frontend,False
+Doris Rojas García,23,"['HTML/CSS', 'SQL', 'Java', 'React', 'Python']",5,"['http://castillo.info/', 'http://www.palacios.com/']",Backend,False
+Danny Alexander Ospina,28,"['Python', 'JavaScript', 'Java']",5,['https://www.rincon.info/'],Fullstack,False
+Jorge Hoyos Estrada,29,"['HTML/CSS', 'React', 'SQL']",0,[],Frontend,False
+Martha Karen Serrano,27,"['NodeJS', 'HTML/CSS', 'C++']",4,"['https://hoyos.com/', 'http://www.quintero.com/', 'http://www.velasquez.biz/']",Frontend,False
+Yineth Gutiérrez Hernández,28,"['JavaScript', 'Java']",3,[],Fullstack,False
+Dahiana Elsy Arboleda Mesa,25,"['SQL', 'NodeJS']",1,"['http://zapata.com/', 'https://www.morales-saavedra.com/', 'https://gutierrez.biz/']",Fullstack,False
+Paola Laura Contreras,23,"['Java', 'JavaScript', 'NodeJS', 'Python', 'C++']",2,[],Fullstack,False
+Aura Yeimy Cardona Angarita,24,"['Python', 'SQL', 'NodeJS']",3,"['https://salazar-ruiz.info/', 'https://arias-lopez.com/']",Backend,False
+Valentina Stella Alvarado Jiménez,30,"['NodeJS', 'React', 'Java', 'Python']",2,['http://www.orozco.com/'],Frontend,False
+Marina Ximena Suárez Oviedo,19,"['React', 'Python']",0,['https://gutierrez.com/'],Frontend,False
+Melissa Vilma Camacho León,25,"['NodeJS', 'C++']",2,"['https://www.contreras.info/', 'http://www.perez.com/', 'https://perea-munoz.com/']",Fullstack,False
+Marleny Lucy Arias,22,"['Python', 'C++', 'HTML/CSS', 'JavaScript']",5,['https://www.mena-cruz.com/'],Frontend,False
+María Lucía Castillo Villa,30,"['SQL', 'C++']",5,['http://rodriguez.com/'],Fullstack,False
+María Jenny Vargas Vásquez,30,"['HTML/CSS', 'React', 'Python']",1,"['http://www.valderrama.biz/', 'https://gomez.biz/']",Frontend,False
+Dora Vega,21,"['JavaScript', 'Java', 'SQL', 'C++']",4,[],Fullstack,False
+Eduardo Henry Bolívar Vargas,18,"['HTML/CSS', 'Python']",1,['http://carrillo.com/'],Frontend,False
+Heriberto Córdoba,25,"['JavaScript', 'Java']",1,"['http://www.mora-correa.com/', 'https://garzon.com/']",Fullstack,False
+Luis Cristian Montes,26,"['Java', 'SQL', 'JavaScript', 'NodeJS']",2,['https://sanchez.biz/'],Fullstack,False
+Lina Sandra Montoya Acosta,24,"['Java', 'JavaScript', 'C++', 'React']",2,"['https://lopez-castro.com/', 'https://perez.com/', 'http://www.escobar.com/']",Frontend,False
+Fernando Jesús Hernández Álvarez,26,"['Java', 'SQL', 'NodeJS', 'HTML/CSS', 'Python']",5,"['https://cabrera.com/', 'http://www.buitrago.org/']",Backend,False
+Dary Carolina Gómez,25,"['Java', 'SQL', 'C++', 'NodeJS']",5,"['http://www.perez-alvarez.com/', 'http://ruiz-rojas.com/', 'http://www.ruiz.info/']",Fullstack,False
+Jhon Martínez,19,"['NodeJS', 'C++', 'SQL']",2,"['https://www.diaz-moreno.com/', 'https://www.garzon-pabon.net/']",Fullstack,False
+Julieth Ramírez Castellanos,20,"['SQL', 'React', 'Java']",4,[],Frontend,False
+Johanna Elsa Martínez,28,"['Java', 'HTML/CSS', 'C++']",4,"['http://loaiza.com/', 'https://www.londono.info/', 'http://benavides-medina.com/']",Frontend,False
+Alberto Jhon Arango,22,"['HTML/CSS', 'C++']",2,[],Frontend,False
+Isaías Perea García,21,"['Java', 'React', 'C++']",4,['https://www.cardona-ospina.net/'],Frontend,False
+Carmen Espitia,27,"['HTML/CSS', 'JavaScript']",4,[],Frontend,False
+Raúl Ángel Mercado Leal,30,"['React', 'JavaScript', 'Python', 'NodeJS', 'C++']",3,[],Frontend,False
+María Vega Rivera,19,"['C++', 'Java', 'JavaScript', 'SQL']",0,"['http://gamboa.com/', 'https://www.romero.biz/', 'https://www.parra.info/']",Fullstack,False
+Carlos Juan Barrios,23,"['C++', 'HTML/CSS']",2,[],Frontend,False
+Yury Claudia Castro Pinzón,23,"['HTML/CSS', 'SQL']",3,['https://www.florez.info/'],Frontend,False
+Enrique Duván Acosta,29,"['HTML/CSS', 'Python', 'Java', 'JavaScript', 'NodeJS']",0,"['http://daza.com/', 'https://www.ramos.biz/', 'http://www.rodriguez.com/']",Frontend,False
+Franco Miguel Figueroa Mosquera,26,"['Java', 'HTML/CSS', 'React', 'JavaScript', 'Python']",0,"['https://www.salazar.net/', 'https://bermudez.com/']",Frontend,False
+Pablo Antonio García,24,"['HTML/CSS', 'NodeJS', 'C++', 'SQL', 'Java']",5,"['http://serrano.biz/', 'https://www.galvis-jimenez.com/']",Frontend,False
+Jairo Ricardo Torres,23,"['NodeJS', 'Java']",1,[],Fullstack,False
+Rafael Carlos Bonilla,24,"['Python', 'React']",2,"['http://www.hernandez.biz/', 'http://www.montenegro-sanchez.com/', 'https://molina-gonzalez.com/']",Frontend,False
+Edwin Brayan Riascos,28,"['JavaScript', 'React', 'Python', 'NodeJS', 'HTML/CSS']",4,"['http://melo.com/', 'https://www.navarro-perez.com/', 'https://www.ramirez.info/']",Frontend,False
+Rosa Moreno Carvajal,20,"['Python', 'React', 'SQL', 'JavaScript', 'Java']",4,['https://www.monsalve.com/'],Backend,False
+Patricia Manuela González Chacón,29,"['C++', 'SQL', 'JavaScript', 'NodeJS', 'Python']",3,"['https://hernandez.info/', 'http://www.gutierrez.net/']",Backend,False
+Alejandra Paola Andrade Manrique,30,"['NodeJS', 'C++', 'Python']",1,[],Fullstack,False
+Angie Elizabeth Márquez,22,"['React', 'JavaScript']",0,"['http://daza.com/', 'https://www.vergara-uribe.com/', 'http://www.galindo-hernandez.com/']",Frontend,False
+Ana Cardona,27,"['React', 'SQL']",0,['http://www.jimenez.org/'],Frontend,False
+Milena Duarte Rodríguez,22,"['SQL', 'Python', 'JavaScript']",5,[],Backend,False
+Milena María Bastidas,21,"['JavaScript', 'SQL', 'NodeJS']",2,['http://barreto.info/'],Fullstack,False
+Jhon José Pérez,21,"['React', 'Python', 'HTML/CSS', 'C++']",2,"['http://jimenez-garcia.com/', 'http://carvajal-mercado.com/']",Frontend,False
+Antonio Guerrero,28,"['NodeJS', 'Python', 'C++', 'JavaScript', 'SQL']",0,['https://www.martinez.com/'],Backend,False
+Enrique Rodríguez Quiroz,20,"['NodeJS', 'SQL', 'Python', 'HTML/CSS', 'JavaScript']",4,"['https://www.acevedo-ceron.com/', 'https://www.rodriguez-londono.com/']",Backend,False
+Deisy Piedad Gómez Castro,29,"['HTML/CSS', 'JavaScript', 'C++']",0,[],Frontend,False
+Nubia Rojas,22,"['Java', 'JavaScript']",0,"['http://www.mejia.com/', 'http://vega.net/', 'http://www.salazar.com/']",Fullstack,False
+Andrés Mauricio Reyes,23,"['NodeJS', 'HTML/CSS', 'C++', 'React']",3,"['http://mendoza-garcia.net/', 'https://www.ocampo-perea.com/', 'https://www.camargo.net/']",Frontend,False
+Ernesto Mendoza Tovar,20,"['Python', 'HTML/CSS', 'NodeJS']",5,"['http://www.ballesteros.com/', 'https://www.sanchez-caicedo.biz/']",Frontend,False
+Armando Forero,27,"['C++', 'NodeJS', 'HTML/CSS']",3,[],Frontend,False
+Carlos Julio Correa,23,"['SQL', 'NodeJS', 'HTML/CSS']",5,['https://www.alfonso-lara.net/'],Frontend,False
+David Carlos Daza,25,"['NodeJS', 'JavaScript', 'HTML/CSS', 'C++']",3,"['https://morales.info/', 'https://correa.biz/']",Frontend,False
+María Elsy Vásquez,21,"['React', 'C++', 'SQL', 'HTML/CSS']",4,"['https://lopez-lozano.com/', 'http://rodriguez.com/']",Frontend,False
+Luis David Gómez,23,"['JavaScript', 'C++', 'SQL', 'Python']",4,"['https://jimenez-morales.net/', 'http://burgos-meza.com/']",Backend,False
+Alonso Camargo Pérez,25,"['HTML/CSS', 'SQL', 'React', 'NodeJS', 'Java']",3,[],Frontend,False
+Luis Bernal Pinzón,27,"['React', 'C++', 'JavaScript', 'Java', 'HTML/CSS']",0,"['https://www.vanegas-gallego.biz/', 'http://ramirez.net/']",Frontend,False
+Enrique Duván Ávila,23,"['C++', 'SQL']",3,['https://pulido-chavez.com/'],Fullstack,False
+Margarita Oliva Narváez Bolívar,19,"['Java', 'Python', 'C++']",0,"['http://www.orjuela.com/', 'https://gonzalez.net/', 'http://bautista-gonzalez.info/']",Fullstack,False
+Viviana Rodríguez Vargas,19,"['C++', 'JavaScript', 'NodeJS']",2,[],Fullstack,False
+Iván Alejandro Palacios,22,"['HTML/CSS', 'NodeJS', 'React']",2,"['http://nino-perez.biz/', 'http://cordoba.com/']",Frontend,False
+Adriana Morales,19,"['NodeJS', 'JavaScript', 'C++', 'Java']",5,"['https://www.hernandez.com/', 'https://villamil.biz/']",Fullstack,False
+José Fernando Cortés,27,"['HTML/CSS', 'Java', 'NodeJS']",4,['http://camargo-correa.com/'],Frontend,False
+Yolanda Yurany Hernández,18,"['React', 'C++', 'HTML/CSS', 'Java']",5,['http://www.gonzalez.com/'],Frontend,False
+Adriana Yésica Figueroa Martínez,30,"['SQL', 'C++', 'Java', 'NodeJS']",5,"['https://www.guzman.com/', 'https://gutierrez.net/', 'https://www.salazar.com/']",Fullstack,False
+Marisol Valderrama Cárdenas,28,"['Java', 'C++']",3,['https://herrera.com/'],Fullstack,False
+Marcela Parra,29,"['NodeJS', 'Python', 'SQL']",5,['http://garcia.com/'],Backend,False
+Cecilia Liliana Zambrano Quintero,23,"['Python', 'HTML/CSS', 'Java', 'JavaScript']",4,"['https://www.galeano.com/', 'https://www.navarro.net/', 'http://cordoba-vasquez.com/']",Frontend,False

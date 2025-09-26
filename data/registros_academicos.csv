@@ -1,0 +1,201 @@
+nombre,tecnologia,promedio,asistencia,materias_reprobadas,nivel_socio
+Rafael Dario Carvajal,C++,4.67,64,"['Lenguaje', 'Matemáticas']",Alto
+Rubén Ciro Arroyo,JavaScript,3.74,84,[],Alto
+Luz Rosa Rojas Guevara,SQL,4.77,86,"['Historia', 'Ciencias']",Bajo
+Adolfo José Gutiérrez,HTML/CSS,4.54,68,['Historia'],Bajo
+Hugo Eduardo Gutiérrez Álvarez,SQL,4.34,87,[],Bajo
+Patricia Salazar Muñoz,JavaScript,4.29,67,[],Alto
+Alfredo Rodríguez,Python,4.29,89,['Inglés'],Medio
+Inés Calderón Ríos,Java,3.05,66,"['Inglés', 'Historia']",Medio
+Diego Jhon Vera Pineda,JavaScript,4.56,61,['Ciencias'],Medio
+Adolfo Ramírez,JavaScript,4.9,84,"['Matemáticas', 'Ciencias']",Alto
+María María Rueda Padilla,SQL,3.56,89,"['Inglés', 'Historia']",Bajo
+Liliana Ospina Villa,Python,3.21,77,[],Alto
+Maricela Bolaños López,C++,4.66,91,['Informática'],Medio
+Nohora Juliana Muñoz,SQL,3.48,77,[],Alto
+César Sandoval,C++,4.88,68,['Lenguaje'],Medio
+Marta Lucía Hernández,JavaScript,2.29,78,"['Informática', 'Lenguaje']",Medio
+María Palacios Rojas,HTML/CSS,3.95,62,[],Bajo
+Judith Elena Parra Herrera,NodeJS,4.5,60,"['Historia', 'Inglés']",Bajo
+Lina Hernández,C++,4.23,68,['Historia'],Alto
+Olga Bohórquez Becerra,Python,2.87,79,[],Alto
+Santiago Hernán Orjuela Gutiérrez,React,2.38,77,[],Bajo
+Jesús David Benítez Ocampo,NodeJS,3.02,67,"['Lenguaje', 'Informática']",Alto
+Julio Gómez Ruiz,SQL,4.98,65,['Matemáticas'],Alto
+Margarita Tatiana Angulo Muñoz,JavaScript,2.79,64,[],Medio
+Carolina Beltrán,Java,4.99,73,['Lenguaje'],Bajo
+Marisol Pabón Herrera,NodeJS,4.64,78,[],Bajo
+Eduardo Manuel Guerra,SQL,2.45,95,[],Bajo
+Mónica Ángela Quiroz Ballesteros,React,3.99,78,['Matemáticas'],Medio
+Patricia Elena Rodríguez Díaz,JavaScript,4.41,92,"['Matemáticas', 'Historia']",Medio
+Gustavo Nelson Hernández,SQL,3.93,100,"['Matemáticas', 'Inglés']",Medio
+Alexander Augusto Reyes,JavaScript,4.27,67,[],Medio
+Cecilia Andrea Jiménez Martínez,SQL,2.9,76,[],Bajo
+Lucía Mercedes Cano,NodeJS,4.34,98,"['Informática', 'Ciencias']",Bajo
+Duván Ortiz Mena,Java,2.12,62,"['Informática', 'Ciencias']",Bajo
+Enrique Sánchez,NodeJS,2.22,60,['Ciencias'],Medio
+Daniel Trujillo,HTML/CSS,3.75,74,[],Alto
+Norma Jaramillo Soto,SQL,4.69,66,['Ciencias'],Bajo
+Gilberto Barrera García,React,2.15,100,"['Historia', 'Informática']",Alto
+María Montenegro,Python,3.47,87,['Historia'],Medio
+José Caicedo,SQL,4.21,100,[],Medio
+Álvaro Ricardo Garzón Gómez,React,3.14,73,[],Medio
+Natalia Zambrano Fonseca,React,3.05,79,['Inglés'],Alto
+Miriam Salas,React,3.75,96,[],Alto
+Anderson José García Rodríguez,HTML/CSS,3.31,100,"['Lenguaje', 'Historia']",Medio
+Andrés Galvis,C++,4.01,60,[],Bajo
+Jhon Jhoan Bedoya Ríos,SQL,2.87,68,"['Ciencias', 'Inglés']",Alto
+Leonor Erika Torres,Java,2.72,75,"['Matemáticas', 'Informática']",Bajo
+Luz Aura Torres Cifuentes,JavaScript,3.93,75,[],Bajo
+Gloria Cárdenas,HTML/CSS,4.88,100,"['Informática', 'Historia']",Alto
+Luz Rosa Gómez,Python,3.72,70,[],Bajo
+Alexander Ignacio Ramos,Python,4.81,72,"['Inglés', 'Informática']",Alto
+Nelly Mercedes Castro Solano,HTML/CSS,4.13,89,[],Medio
+Juan Carlos Cárdenas García,SQL,2.24,89,['Inglés'],Alto
+Alberto Alejandro González,Java,4.66,96,"['Inglés', 'Lenguaje']",Medio
+Sergio Fuentes,Python,4.67,60,['Lenguaje'],Alto
+Augusto Lozano Ortiz,SQL,4.32,66,[],Medio
+Alonso Francisco Gaitán,JavaScript,2.09,97,"['Matemáticas', 'Inglés']",Medio
+Hernando Bedoya,Python,3.25,90,['Informática'],Medio
+David Rivera,HTML/CSS,3.49,60,['Ciencias'],Medio
+Fernanda Cabrera,SQL,4.04,61,[],Alto
+Edison Germán Carrillo,JavaScript,3.45,71,['Inglés'],Alto
+Santos Juan Torres Villamil,NodeJS,3.94,72,[],Medio
+Rosalba Flórez Moreno,Python,3.94,74,[],Alto
+Humberto Jiménez,Java,4.97,85,"['Lenguaje', 'Inglés']",Bajo
+Eliecer Pablo González Velásquez,JavaScript,4.31,71,['Ciencias'],Bajo
+Ana Yadira Mendoza Carvajal,JavaScript,3.81,64,[],Alto
+Marleny Patiño,SQL,3.54,100,[],Medio
+Luis Orozco Niño,Java,4.39,92,"['Lenguaje', 'Matemáticas']",Medio
+Deisy Wendy Peña Hernández,HTML/CSS,3.46,69,['Matemáticas'],Medio
+Liliana Liliana Cárdenas Monroy,JavaScript,3.71,73,"['Historia', 'Inglés']",Alto
+Carmen María Tamayo,NodeJS,4.96,71,[],Bajo
+María Diana Riascos Hernández,HTML/CSS,4.7,75,['Inglés'],Bajo
+Gloria Lorena Pérez,React,3.37,95,"['Inglés', 'Ciencias']",Alto
+Mary Saavedra,JavaScript,2.78,73,"['Lenguaje', 'Matemáticas']",Bajo
+Maira Martínez,Java,4.32,71,"['Ciencias', 'Matemáticas']",Alto
+Juan Richard Gómez,Java,2.4,87,[],Medio
+David Benítez Hernández,Java,4.69,97,['Inglés'],Alto
+Luz Rentería Jiménez,Java,4.13,65,[],Bajo
+Ever López,React,4.05,72,"['Lenguaje', 'Informática']",Bajo
+Andrés Cárdenas Villamil,Python,3.78,67,[],Alto
+Mario Castro,JavaScript,3.61,97,[],Bajo
+Miguel Ospina Serna,Python,2.25,97,[],Bajo
+Patricia Johana Gómez García,NodeJS,4.12,91,['Ciencias'],Medio
+Andrés Fernando Blanco Barragán,NodeJS,4.12,99,"['Historia', 'Lenguaje']",Bajo
+Sofía Julieth Ortiz,SQL,4.88,78,['Inglés'],Medio
+Cristian Carlos Osorio,Java,4.26,73,[],Medio
+Julio David Hernández,Java,2.77,76,[],Alto
+Luz Patricia Acosta,C++,3.78,65,['Ciencias'],Medio
+María Patricia Montenegro Romero,React,3.48,61,['Inglés'],Bajo
+Inés Quintero,JavaScript,4.97,87,[],Alto
+Juan Julio Mosquera,Java,2.04,61,"['Historia', 'Lenguaje']",Alto
+Martha Murcia Torres,SQL,3.3,89,[],Medio
+María Londoño Medina,NodeJS,4.49,85,[],Alto
+Olga Ríos,HTML/CSS,2.9,78,[],Alto
+Joel Edilberto Triana Díaz,React,2.68,99,[],Alto
+Diana Mora,SQL,4.18,65,[],Bajo
+Diego Javier Suárez,JavaScript,4.29,98,[],Medio
+Marcela Beatriz Acevedo Guevara,JavaScript,4.69,66,"['Ciencias', 'Historia']",Alto
+Joel Hernán Cano Ojeda,React,4.07,88,[],Medio
+Marisol Sonia Cruz Arango,HTML/CSS,2.7,64,"['Historia', 'Ciencias']",Alto
+Hernán Héctor Álvarez,SQL,3.49,85,['Inglés'],Alto
+Dario Hernández Rodríguez,SQL,2.99,68,['Historia'],Alto
+Gladys Gloria Montes García,C++,4.05,70,"['Lenguaje', 'Ciencias']",Medio
+Gladys Aura Jiménez,Java,3.24,60,"['Ciencias', 'Lenguaje']",Medio
+Omar Rodríguez Villa,NodeJS,2.04,94,[],Medio
+Wilson James Gil,HTML/CSS,4.01,99,[],Medio
+Camila Rodríguez Ibarra,Python,3.59,63,['Historia'],Alto
+Tatiana María Martínez López,React,3.25,96,"['Matemáticas', 'Informática']",Bajo
+Alberto Martínez,React,3.44,96,[],Alto
+Cristian Alfonso Montoya Díaz,NodeJS,3.2,62,[],Alto
+Mayra Melo,JavaScript,3.48,74,[],Bajo
+María Carolina Sánchez,NodeJS,3.17,62,['Matemáticas'],Alto
+María Liseth Muñoz,Python,2.18,96,[],Medio
+Víctor Hernando Murillo Rosero,NodeJS,4.23,93,['Informática'],Bajo
+Carolina María Fernández Arboleda,Python,4.85,96,"['Ciencias', 'Lenguaje']",Alto
+Esteban José Romero Rangel,Java,2.09,77,"['Lenguaje', 'Historia']",Bajo
+María María Serna Valderrama,React,2.02,66,[],Bajo
+Nancy Muñoz Vargas,Java,2.43,96,['Ciencias'],Bajo
+Elisa Yina Ramírez Sánchez,Python,2.86,84,[],Medio
+María Catalina Mosquera Velandia,HTML/CSS,3.19,70,['Matemáticas'],Medio
+Edilma Claudia Díaz Pérez,C++,2.39,70,"['Historia', 'Lenguaje']",Alto
+Ruby Osorio,HTML/CSS,2.15,90,['Matemáticas'],Alto
+Martha Valentina Giraldo Rincón,JavaScript,2.85,93,"['Matemáticas', 'Lenguaje']",Bajo
+Mariana Camila Calderón Ramírez,HTML/CSS,3.35,82,['Matemáticas'],Bajo
+Ligia Paola Castro,JavaScript,2.25,91,['Lenguaje'],Bajo
+Dario Emilio Uribe Henao,Python,2.26,84,"['Historia', 'Informática']",Alto
+Beatriz Mejía,React,2.7,75,[],Alto
+Jimmy Sánchez,Java,3.23,88,"['Matemáticas', 'Historia']",Alto
+Mateo Armando Sánchez Giraldo,Java,2.32,97,"['Matemáticas', 'Inglés']",Alto
+Carlos James Cruz Saavedra,C++,3.95,70,"['Inglés', 'Historia']",Medio
+Ibeth Luz Flórez Duque,SQL,2.26,94,[],Bajo
+Maribel Ana Castro Benavides,NodeJS,2.23,75,[],Bajo
+Elizabeth Margarita Sierra Correa,JavaScript,4.15,99,"['Ciencias', 'Matemáticas']",Bajo
+María Melissa Rodríguez,SQL,3.25,76,['Informática'],Alto
+Gregorio Javier Ríos López,React,3.34,62,['Ciencias'],Alto
+Iván Juan Burbano Vargas,SQL,3.84,78,[],Alto
+Luis Pablo Ojeda Mantilla,NodeJS,2.96,82,"['Historia', 'Lenguaje']",Bajo
+Carlos David Montoya,React,2.19,99,"['Ciencias', 'Inglés']",Medio
+Ramón Antonio Martínez,C++,4.75,95,"['Lenguaje', 'Informática']",Bajo
+Maritza Elvia Guerra,React,4.5,73,['Matemáticas'],Alto
+Sandra Fernanda García Mejía,SQL,3.19,92,['Ciencias'],Bajo
+Helena Janeth Vanegas Barrera,JavaScript,4.42,97,[],Bajo
+Luis Naranjo,Python,4.31,86,[],Bajo
+Myriam Acevedo,Python,3.3,94,['Historia'],Medio
+Mario Alberto Duarte,SQL,2.83,71,"['Matemáticas', 'Informática']",Bajo
+Isabel María Gómez Jiménez,SQL,3.84,62,[],Bajo
+Raquel Luz Torres,HTML/CSS,3.74,89,"['Historia', 'Informática']",Medio
+Jeisson Meza,NodeJS,3.72,62,"['Inglés', 'Historia']",Alto
+Rosa Viviana Vanegas Márquez,Python,4.24,96,[],Alto
+Gustavo Zapata,C++,2.88,84,[],Bajo
+María Lizeth Domínguez,Python,2.71,93,['Matemáticas'],Bajo
+Luz Ávila Peña,SQL,3.66,87,['Matemáticas'],Medio
+Hernando Valderrama Orjuela,Java,4.86,91,[],Alto
+Marta Leidy López Martínez,Java,4.48,98,['Ciencias'],Bajo
+Adriana Paola Aguirre,NodeJS,2.09,75,"['Matemáticas', 'Historia']",Alto
+Ana Parra Chávez,SQL,3.52,89,"['Inglés', 'Historia']",Bajo
+María Adriana Rico,HTML/CSS,3.97,78,['Inglés'],Bajo
+Yamile Elisa Ortega,C++,4.4,64,"['Matemáticas', 'Lenguaje']",Medio
+Luz Rosero,C++,3.82,65,"['Ciencias', 'Informática']",Medio
+Judith Arenas Méndez,SQL,2.23,87,[],Medio
+Karen Lucía Díaz Parada,HTML/CSS,2.54,95,['Matemáticas'],Medio
+María Elizabeth Riascos,React,2.14,61,['Matemáticas'],Medio
+Ligia González Silva,SQL,2.98,67,"['Inglés', 'Lenguaje']",Alto
+Ramón Rodríguez,SQL,3.21,82,[],Medio
+Jesús Alexander Meza,C++,2.08,60,['Matemáticas'],Alto
+Katherine Esperanza Arévalo,Java,2.39,80,[],Medio
+Johana Lizeth Roa Cuéllar,C++,4.57,71,"['Matemáticas', 'Ciencias']",Medio
+Jesús Maldonado,Python,4.15,88,['Ciencias'],Medio
+María Burgos Alvarado,React,4.35,72,[],Medio
+Fabián Fernández,C++,4.8,93,"['Informática', 'Matemáticas']",Bajo
+Martha Díaz,C++,2.38,81,[],Alto
+Santiago Yesid Salgado,SQL,2.84,72,[],Medio
+Alba Ríos,JavaScript,3.13,100,['Historia'],Alto
+Camilo José Puentes Hernández,React,4.67,90,['Matemáticas'],Bajo
+Juliana Romero,SQL,2.91,99,['Informática'],Alto
+Cecilia Hernández Salazar,Python,3.41,70,['Ciencias'],Alto
+Humberto Guerrero Aguirre,JavaScript,2.47,65,[],Bajo
+Nancy Cárdenas Becerra,SQL,4.56,93,['Matemáticas'],Bajo
+Hernán Torres Sánchez,Python,2.5,90,['Informática'],Bajo
+Stella Lozano,JavaScript,4.27,86,['Informática'],Alto
+Miryam Sierra Ochoa,HTML/CSS,2.65,81,[],Alto
+Ingrid Johana Guerrero Durán,Java,4.81,96,[],Alto
+Beatriz Stella Cárdenas García,C++,3.24,92,['Historia'],Alto
+Mary Olga Burgos,NodeJS,4.28,64,"['Ciencias', 'Matemáticas']",Bajo
+Carlos Camacho,Python,2.5,73,[],Medio
+Janneth Muñoz,React,4.85,92,[],Bajo
+Olga Arias Gaviria,React,3.61,65,[],Medio
+Rafael Jesús Flórez,JavaScript,4.29,95,[],Alto
+Omaira Bustamante,React,4.69,66,['Inglés'],Medio
+Ramiro Camilo Rojas Córdoba,Python,4.56,90,['Matemáticas'],Bajo
+Luis Uribe,NodeJS,2.97,94,[],Bajo
+Betty Morales Vargas,C++,4.48,77,"['Matemáticas', 'Informática']",Medio
+John Medina,Python,2.52,97,"['Ciencias', 'Matemáticas']",Alto
+Flor María García Gómez,NodeJS,3.12,74,[],Alto
+Luz Contreras Torres,Java,2.39,60,[],Medio
+Steven José Hernández Burgos,JavaScript,4.79,85,['Historia'],Alto
+Henry César Morales Rodríguez,Java,2.48,72,"['Informática', 'Lenguaje']",Medio
+Eliana Domínguez Londoño,JavaScript,4.06,69,"['Informática', 'Inglés']",Medio
+Sandra Miranda,NodeJS,3.28,76,[],Alto
+Juliana Rojas Caro,Python,2.07,68,['Matemáticas'],Medio
